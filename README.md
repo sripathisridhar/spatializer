@@ -6,8 +6,6 @@ This project implements 2-dimensional Vector Based Amplitude Panning (VBAP). VBA
 ## Usage
 To execute the file, clone repo and run the executable `finalProject`
 
-This code is not currently being maintained, but feel free to raise an issue if you run into bugs.
-
 ## References
 
 **[Virtual sound source positioning using vector base amplitude panning](https://www.aes.org/e-lib/browse.cfm?elib=7853)**<br/>
